@@ -1,5 +1,6 @@
  :root { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
-    body { margin: 0; padding: 24px; background: #0b1220; color: #e9edf6; }
+    body {background-image: url(./Assets/NiniDpLogo.png);
+       margin: 0; padding: 24px; background: #0b1220; color: #e9edf6; }
     h1, h2 { margin: 16px 0 8px; }
     a { color: #9fd0ff; }
     .card { background: #131c2e; border: 1px solid #233150; padding: 16px; border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.25); margin-bottom: 18px; }
