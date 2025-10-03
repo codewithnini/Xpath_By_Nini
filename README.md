@@ -1,4 +1,4 @@
-# Xpath_By_Shreenibas
+# Xpath_By_Nini
 ## Top 6 interview questions on hashtag#XPath commonly asked in automation testing interviews:
 1. What is XPath? How is it used in Selenium?
 2. What is the difference between Absolute XPath and Relative XPath?
