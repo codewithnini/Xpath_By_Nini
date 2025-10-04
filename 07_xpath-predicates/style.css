@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.section {
+  border: 2px solid #bbb;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+/* Different background colors */
+.index-section { background-color: #e3f2fd; }
+.attribute-section { background-color: #f1f8e9; }
+.text-section { background-color: #fff3e0; }
+.logical-section { background-color: #ede7f6; }
+.multiple-section { background-color: #fce4ec; }
+
+ul li, .users p, .buttons button, .products span, table td {
+  margin: 4px 0;
+  padding: 6px;
+}

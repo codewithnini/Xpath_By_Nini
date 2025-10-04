@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #222;
+}
+
+.section {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Different background colors for clarity */
+.number-section { background-color: #e1f5fe; }
+.sum-section { background-color: #f1f8e9; }
+.floor-section { background-color: #fff3e0; }
+.ceiling-section { background-color: #fce4ec; }
+.round-section { background-color: #e8eaf6; }
+
+ul {
+    list-style-type: square;
+}
+ul li {
+    padding: 4px 0;
+}
